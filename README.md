@@ -1,27 +1,27 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abdul%20Mannan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=250&section=header&text=Abdul%20Mannan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Building+Responsive%2C+Scalable+Web+Interfaces;React+%7C+Tailwind+CSS+%7C+GSAP+%7C+Framer+Motion;UI%2FUX+Designer+%40+Open+Source+Software+Society;Turning+Ideas+Into+Interactive+Digital+Experiences" alt="Typing SVG" />
-
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![College](https://img.shields.io/badge/AKGEC-Ghaziabad-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Shahjahanpur%2C%20UP%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=Building+Responsive%2C+Scalable+Web+Interfaces;React+%7C+Tailwind+CSS+%7C+GSAP+%7C+Framer+Motion;UI%2FUX+Designer+%40+Open+Source+Software+Society;Turning+Ideas+Into+Interactive+Digital+Experiences" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
+![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white)
+![College](https://img.shields.io/badge/AKGEC-Ghaziabad-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Shahjahanpur%2C%20UP%2C%20India-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulmannan010spn-bot&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/abdulmannan010spn-bot?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/abdulmannan010spn-bot?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdulmannan010spn-bot&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/abdulmannan010spn-bot?style=for-the-badge&color=2563EB&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/abdulmannan010spn-bot?style=for-the-badge&color=3B82F6&labelColor=1a1a2e)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ## 🧬 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 B.Tech student in **Information Technology** at Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad — Class of 2028
 - 💜 Frontend Developer & UI/UX Designer at the **Open Source Software Society (OSS)**
@@ -235,10 +235,10 @@ Driving the design and frontend development of digital experiences for a student
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmannan010spn-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmannan010spn-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA" />
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmannan010spn-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmannan010spn-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
 
 </div>
 
@@ -258,7 +258,7 @@ Driving the design and frontend development of digital experiences for a student
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmannan010spn-bot&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=C9D1D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmannan010spn-bot&theme=github" />
 
 </div>
 
@@ -302,10 +302,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-abdulmannan010spn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--mannan--537494375-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
 [![GitHub](https://img.shields.io/badge/GitHub-abdulmannan010spn--bot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -332,6 +332,6 @@ But, if you allow it to settle, the answer becomes clear."</i>
 <br/>
 <br/>
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=150&section=footer)
 
 </div>
