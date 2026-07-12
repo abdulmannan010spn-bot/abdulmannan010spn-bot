@@ -104,66 +104,7 @@ Open To:
 
 ---
 
-## 🚀 Featured Projects
 
-<details>
-<summary><b>🌐 Portfolio Website</b></summary>
-<br>
-
-A responsive personal portfolio showcasing projects, skills, and achievements with smooth scroll-based animations.
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, React, Tailwind CSS, GSAP |
-| **Scale** | Single-page application, fully responsive across devices |
-| **Performance** | Optimized asset loading, lazy-loaded sections |
-| **Security** | Static hosting, no exposed credentials |
-| **Impact** | Central hub for showcasing engineering & design work |
-| **Repository** | [github.com/abdulmannan010spn-bot/portfolio](https://github.com/abdulmannan010spn-bot) |
-
-Designed and developed end-to-end — from wireframe to deployment — with a strong focus on smooth GSAP-powered scroll interactions and clean visual hierarchy.
-
-</details>
-
-<details>
-<summary><b>🐾 Pokémon Explorer</b></summary>
-<br>
-
-A responsive Pokémon discovery application built on top of the public PokeAPI to explore Pokémon details, abilities, types, and stats.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, Axios, Tailwind CSS |
-| **Scale** | Consumes 1000+ records via paginated API calls |
-| **Performance** | Debounced search, cached API responses |
-| **Security** | Client-side only, no sensitive data handling |
-| **Impact** | Demonstrates API integration & state management skills |
-| **Repository** | [github.com/abdulmannan010spn-bot/pokemon-explorer](https://github.com/abdulmannan010spn-bot) |
-
-Built to strengthen data-fetching patterns and dynamic rendering with Axios, alongside clean component-driven UI design.
-
-</details>
-
-<details>
-<summary><b>📝 Blog Publishing Website UI</b></summary>
-<br>
-
-A modern blogging platform interface with a clean, responsive layout focused on readability and user experience.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, Tailwind CSS, Figma |
-| **Scale** | Multi-page UI: home feed, article view, editor |
-| **Performance** | Optimized typography & layout for readability |
-| **Security** | N/A — UI/UX prototype |
-| **Impact** | Showcases design-to-code workflow |
-| **Repository** | [github.com/abdulmannan010spn-bot/blog-ui](https://github.com/abdulmannan010spn-bot) |
-
-Designed first in Figma, then translated into a production-quality React interface with a strong emphasis on content-first UX.
-
-</details>
-
----
 
 ## 💼 Experience
 
@@ -276,7 +217,7 @@ Open To:
 <tr>
 <td align="center" width="600">
 <br/>
-<i>"Your mind is like this water, my friend.<br/>
+<i>"Your mind is like this water,<br/>
 When it is agitated, it becomes difficult to see.<br/>
 But, if you allow it to settle, the answer becomes clear."</i>
 <br/><br/>
