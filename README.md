@@ -196,29 +196,7 @@ Driving the design and frontend development of digital experiences for a student
 
 ---
 
-## 📜 Certifications
 
-> _Add your certification badges below as you complete them._
-
-**AWS**
-
-![AWS](https://img.shields.io/badge/AWS-Certification%20Pending-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Certification%20Pending-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certification%20Pending-0056A6?style=flat-square&logo=googleclassroom&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Certification%20Pending-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 💻 Coding Profiles
 
 <div align="center">
 
@@ -235,24 +213,10 @@ Driving the design and frontend development of digital experiences for a student
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmannan010spn-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA" />
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmannan010spn-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
-
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulmannan010spn-bot&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -264,13 +228,6 @@ Driving the design and frontend development of digital experiences for a student
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdulmannan010spn-bot/abdulmannan010spn-bot/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
