@@ -96,22 +96,7 @@
 | API Integration | ⭐⭐⭐☆☆ | Consuming REST APIs with Axios for dynamic UIs |
 | Brand & Visual Design | ⭐⭐⭐⭐☆ | Posters, social creatives, and promotional assets |
 
----
 
-## 🚀 Featured Projects
-
-<!-- Replace these with your real repos — this section sells your work harder than any badge above. -->
-
-<div align="center">
-
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=abdulmannan010spn-bot&repo=project-one&theme=tokyonight&hide_border=true)](https://github.com/abdulmannan010spn-bot/project-one)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=abdulmannan010spn-bot&repo=project-two&theme=tokyonight&hide_border=true)](https://github.com/abdulmannan010spn-bot/project-two)
-
-</div>
-
-> 💡 *Swap `project-one` / `project-two` for real repo names, and add a one-line description + live demo link under each once pinned.*
-
----
 
 ## 💼 Experience
 
@@ -161,7 +146,6 @@ Driving the design and frontend development of digital experiences for a student
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA" />
 
 <br/>
 
