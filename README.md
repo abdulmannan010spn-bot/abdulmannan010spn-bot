@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
@@ -38,7 +38,13 @@
 - 🌱 Actively expanding into **full-stack development** and scalable frontend architecture
 - ⚡ Comfortable owning a feature end-to-end: design → build → ship → iterate
 
-<br clear="right"/>
+```yaml
+Open To:
+  - Frontend Engineering Internships
+  - Open Source Collaboration
+  - UI/UX Design Roles
+  - Freelance Web Development Projects
+```
 
 ---
 
@@ -98,20 +104,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<!-- Replace these with your real repos — this section sells your work harder than any badge above. -->
-
-<div align="center">
-
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=abdulmannan010spn-bot&repo=project-one&theme=tokyonight&hide_border=true)](https://github.com/abdulmannan010spn-bot/project-one)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=abdulmannan010spn-bot&repo=project-two&theme=tokyonight&hide_border=true)](https://github.com/abdulmannan010spn-bot/project-two)
-
-</div>
-
-> 💡 *Swap `project-one` / `project-two` for real repo names, and add a one-line description + live demo link under each once pinned.*
-
----
 
 ## 💼 Experience
 
@@ -144,7 +137,7 @@ Driving the design and frontend development of digital experiences for a student
 
 ---
 
-## 📊 Coding Profiles
+
 
 <div align="center">
 
@@ -157,17 +150,25 @@ Driving the design and frontend development of digital experiences for a student
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA" />
 
-<br/>
+</div>
+
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmannan010spn-bot&theme=github" />
 
 </div>
+
+---
+
 
 ---
 
@@ -190,7 +191,7 @@ Exploring:
 Open To:
   - Frontend Engineering Internships
   - Open Source Collaboration
-  - Freelance Web Development Projects
+  - Freelance Projects
 ```
 
 ---
@@ -199,12 +200,14 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-abdulmannan010spn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--mannan--537494375-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
+[![GitHub](https://img.shields.io/badge/GitHub-abdulmannan010spn--bot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
+
+---
 
 <br/>
 
@@ -224,6 +227,7 @@ But, if you allow it to settle, the answer becomes clear."</i>
 </tr>
 </table>
 
+<br/>
 <br/>
 
 ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=150&section=footer)
