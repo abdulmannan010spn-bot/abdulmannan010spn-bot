@@ -143,17 +143,15 @@ Driving the design and frontend development of digital experiences for a student
 ---
 
 ## 📈 GitHub Analytics
-
+ 
 <div align="center">
 
+<img height="165" src="https://streak-stats.demolab.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmannan010spn-bot&theme=github" />
-
 </div>
 
----
 
 ## 🎯 Current Focus
 
