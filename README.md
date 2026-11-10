@@ -7,9 +7,7 @@
 <a href="mailto:abdulmannan010spn@gmail.com"><img src="cards/tile-email.svg" width="32.5%" alt="Email: Say hello"></a>
 <img src="cards/heading-repos.svg" width="100%" alt="What I'm coding">
 <!--REPOS:START-->
-<a href="https://github.com/abdulmannan010spn-bot"><img src="cards/repo-1.svg" width="32.5%" alt="pinned-repo-1"></a>
-<a href="https://github.com/abdulmannan010spn-bot"><img src="cards/repo-2.svg" width="32.5%" alt="pinned-repo-2"></a>
-<a href="https://github.com/abdulmannan010spn-bot"><img src="cards/repo-3.svg" width="32.5%" alt="pinned-repo-3"></a>
+
 <!--REPOS:END-->
 <p><a href="https://yourportfolio.com">portfolio</a> / <a href="https://linkedin.com/in/abdul-mannan-537494375">linkedin</a> / <a href="mailto:abdulmannan010spn@gmail.com">email</a> / <a href="https://github.com/abdulmannan010spn-bot">github</a></p>
 </div>
