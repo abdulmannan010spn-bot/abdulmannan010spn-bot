@@ -30,17 +30,22 @@ async function gql(query, variables) {
 
 async function loadDays() {
   const days = new Map();
+  let lastYear = null;
   if (MOCK) {
     let seed = 7; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
     const end = iso(new Date());
     for (let d = addDays(end, -420); d <= end; d = addDays(d, 1)) days.set(d, rnd() < 0.35 ? 0 : Math.floor(rnd() * 9));
     days.set(end, 3);
-    return days;
+    lastYear = [...days.entries()].filter(([d]) => d > addDays(end, -365)).reduce((a, [, c]) => a + c, 0);
+    return { days, lastYear };
   }
   const q = `query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){createdAt
     contributionsCollection(from:$from,to:$to){contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}`;
   const first = await gql(`query($l:String!){user(login:$l){createdAt}}`, { l: USER });
   const startYear = new Date(first.user.createdAt).getUTCFullYear();
+  // exactly what github.com shows as "N contributions in the last year"
+  const ly = await gql(`query($l:String!){user(login:$l){contributionsCollection{contributionCalendar{totalContributions}}}}`, { l: USER });
+  lastYear = ly.user.contributionsCollection.contributionCalendar.totalContributions;
   const now = new Date();
   for (let y = startYear; y <= now.getUTCFullYear(); y++) {
     const from = `${y}-01-01T00:00:00Z`;
@@ -49,10 +54,10 @@ async function loadDays() {
     for (const w of d.user.contributionsCollection.contributionCalendar.weeks)
       for (const day of w.contributionDays) days.set(day.date, day.contributionCount);
   }
-  return days;
+  return { days, lastYear };
 }
 
-function stats(days) {
+function stats({ days, lastYear }) {
   const dates = [...days.keys()].sort();
   const today = dates[dates.length - 1];
   let total = 0; for (const c of days.values()) total += c;
@@ -67,7 +72,7 @@ function stats(days) {
   for (let d = end; days.get(d) > 0; d = addDays(d, -1)) { cur.len++; cur.start = d; cur.end = end; }
   const first = dates.find((d) => days.get(d) > 0) || dates[0];
   const last30 = Array.from({ length: 30 }, (_, i) => days.get(addDays(today, i - 29)) ?? 0);
-  return { total, first, today, cur, best, last30 };
+  return { total, lastYear, first, today, cur, best, last30 };
 }
 
 // ---------- drawing (outlined glyphs, so fonts never depend on the viewer) ----------
@@ -92,9 +97,9 @@ const INK = '#0B0F1A', BLUE = '#2B4BFF', RED = '#F03A2E', YEL = '#FFC61A';
 function render(s) {
   const W = 800, H = 250, CH = 232;
   const cols = [
-    { x: 40, label: 'TOTAL CONTRIBUTIONS', num: s.total.toLocaleString('en-US'), color: BLUE, sub: `${fmt(s.first, true)} – Present` },
-    { x: 294, label: 'CURRENT STREAK', num: String(s.cur.len), color: RED, sub: s.cur.len ? `${fmt(s.cur.start)} – ${fmt(s.cur.end)}` : 'Make a commit today' , unit: s.cur.len === 1 ? 'day' : 'days' },
-    { x: 548, label: 'LONGEST STREAK', num: String(s.best.len), color: INK, sub: s.best.len ? `${fmt(s.best.start)} – ${fmt(s.best.end)}` : '—', unit: s.best.len === 1 ? 'day' : 'days' },
+    { x: 40, label: 'CONTRIBUTIONS · LAST YEAR', num: s.placeholder ? '—' : s.lastYear.toLocaleString('en-US'), color: BLUE, sub: s.placeholder ? 'Syncing on first run' : `${fmt(addDays(s.today, -364), true)} – Present` },
+    { x: 294, label: 'CURRENT STREAK', num: String(s.cur.len), color: RED, sub: s.placeholder ? 'Syncing on first run' : s.cur.len ? `${fmt(s.cur.start)} – ${fmt(s.cur.end)}` : 'Make a commit today' , unit: s.placeholder ? '' : s.cur.len === 1 ? 'day' : 'days' },
+    { x: 548, label: 'LONGEST STREAK', num: String(s.best.len), color: INK, sub: s.placeholder ? 'Syncing on first run' : s.best.len ? `${fmt(s.best.start)} – ${fmt(s.best.end)}` : '—', unit: s.placeholder ? '' : s.best.len === 1 ? 'day' : 'days' },
   ];
   let g = '';
   g += `<rect x="40" y="34" width="9" height="9" fill="${RED}"/>`;
@@ -114,10 +119,13 @@ function render(s) {
     const h = v ? 6 + (v / max) * 22 : 3;
     g += `<rect x="${(x0 + i * step).toFixed(1)}" y="${(218 - h).toFixed(1)}" width="${bw.toFixed(1)}" height="${h.toFixed(1)}" rx="1.5" fill="${v ? BLUE : '#E2E0D8'}"${v && i === 29 ? ` stroke="${INK}" stroke-width="1.5"` : ''}/>`;
   });
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="GitHub contributions: ${s.total} total, ${s.cur.len} day current streak, ${s.best.len} day longest streak"><rect x="7" y="7" width="788" height="${CH}" rx="14" fill="${INK}"/><rect x="0" y="0" width="788" height="${CH}" rx="14" fill="#F4F3EE" stroke="${INK}" stroke-width="2.5"/>${g}</svg>\n`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="GitHub contributions: ${s.lastYear} in the last year, ${s.cur.len} day current streak, ${s.best.len} day longest streak"><rect x="7" y="7" width="788" height="${CH}" rx="14" fill="${INK}"/><rect x="0" y="0" width="788" height="${CH}" rx="14" fill="#F4F3EE" stroke="${INK}" stroke-width="2.5"/>${g}</svg>\n`;
 }
 
-if (!MOCK && !TOKEN) { console.error('GH_TOKEN / GITHUB_TOKEN is required'); process.exit(1); }
-const s = stats(await loadDays());
+if (!MOCK && !TOKEN && !process.argv.includes('--placeholder')) { console.error('GH_TOKEN / GITHUB_TOKEN is required'); process.exit(1); }
+const PLACEHOLDER = process.argv.includes('--placeholder');
+const s = PLACEHOLDER
+  ? { lastYear: '—', today: iso(new Date()), cur: { len: '—' }, best: { len: '—' }, last30: Array(30).fill(0), placeholder: true }
+  : stats(await loadDays());
 fs.writeFileSync(OUT, render(s));
-console.log(`wrote ${OUT}`, { total: s.total, current: s.cur.len, longest: s.best.len });
+console.log(`wrote ${OUT}`, { lastYear: s.lastYear, current: s.cur.len, longest: s.best.len });
