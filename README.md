@@ -6,7 +6,7 @@
 
 <img src="assets/tiles.svg" width="100%" alt="Build, Design, Motion" />
 
-<a href="https://yourportfolio.com">portfolio</a> /
+<a href="https://3-d-portfolio-pied-three.vercel.app/">portfolio</a> /
 <a href="https://linkedin.com/in/abdul-mannan-537494375">linkedin</a> /
 <a href="https://github.com/abdulmannan010spn-bot">github</a> /
 <a href="mailto:abdulmannan010spn@gmail.com">email</a>
@@ -33,7 +33,7 @@
 
 <img src="assets/h-days.svg" width="100%" alt="Every day, in blue" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=abdulmannan010spn-bot&background=F4F3EE&border_radius=14&stroke=0B0F1A&ring=2B4BFF&fire=F03A2E&currStreakNum=0B0F1A&sideNums=0B0F1A&currStreakLabel=2B4BFF&sideLabels=2B4BFF&dates=555555" alt="GitHub streak stats" />
+<img src="assets/streak.svg" width="100%" alt="Live GitHub contribution stats: total contributions, current streak, longest streak" />
 
 <br/>
 

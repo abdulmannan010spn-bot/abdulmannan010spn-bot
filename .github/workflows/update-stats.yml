@@ -1,0 +1,37 @@
+name: Update streak card
+
+on:
+  schedule:
+    - cron: '17 * * * *'      # every hour
+  workflow_dispatch:           # "Run workflow" button
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate assets/streak.svg
+        env:
+          # Optional: add a PAT (read:user) as secret GH_PAT to also count private contributions
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-stats.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --staged --quiet || (git commit -m "chore: refresh streak card" && git push)
