@@ -1,175 +1,198 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=250&section=header&text=Abdul%20Mannan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20)
+![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a1f0a&height=200&section=header&text=ABDUL%20MANNAN&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=%3E%20FRONTEND%20DEV%20%7C%20UI%2FUX%20ENGINEER%20%7C%20OPEN%20SOURCE&descAlignY=65&descSize=16&descColor=FFB000)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=Building+Responsive%2C+Scalable+Web+Interfaces;React+%7C+Tailwind+CSS+%7C+GSAP+%7C+Framer+Motion;UI%2FUX+Designer+%40+Open+Source+Software+Society;Turning+Ideas+Into+Interactive+Digital+Experiences" alt="Typing SVG" />
-
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white)
-![College](https://img.shields.io/badge/AKGEC-Ghaziabad-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Shahjahanpur%2C%20UP%2C%20India-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+REACT+%7C+TAILWIND+%7C+GSAP+%7C+FRAMER+MOTION;%3E+UI%2FUX+DESIGNER+%40+OPEN+SOURCE+SOFTWARE+SOCIETY;%3E+TURNING+IDEAS+INTO+INTERACTIVE+EXPERIENCES" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-60A5FA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
+![B.Tech](https://img.shields.io/badge/CLASS-B.TECH%20IT%20'28-000000?style=for-the-badge&labelColor=00FF41&color=000000&logo=googlescholar&logoColor=black)
+![College](https://img.shields.io/badge/GUILD-AKGEC%20GHAZIABAD-000000?style=for-the-badge&labelColor=FFB000&color=000000&logo=readthedocs&logoColor=black)
+![Location](https://img.shields.io/badge/MAP-SHAHJAHANPUR%2C%20UP%2C%20INDIA-000000?style=for-the-badge&labelColor=00E5FF&color=000000&logo=googlemaps&logoColor=black)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulmannan010spn-bot&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/abdulmannan010spn-bot?style=for-the-badge&color=2563EB&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/abdulmannan010spn-bot?style=for-the-badge&color=3B82F6&labelColor=1a1a2e)
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-START_GAME-000000?style=for-the-badge&labelColor=00FF41&logo=vercel&logoColor=black)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-CONNECT-000000?style=for-the-badge&labelColor=FFB000&logo=linkedin&logoColor=black)](https://linkedin.com/in/abdul-mannan-537494375)
+[![Email](https://img.shields.io/badge/▶_EMAIL-SEND_MSG-000000?style=for-the-badge&labelColor=00E5FF&logo=gmail&logoColor=black)](mailto:abdulmannan010spn@gmail.com)
+[![GitHub](https://img.shields.io/badge/▶_GITHUB-FOLLOW-000000?style=for-the-badge&labelColor=FF3EA5&logo=github&logoColor=black)](https://github.com/abdulmannan010spn-bot)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdulmannan010spn-bot&style=for-the-badge&color=00FF41&labelColor=000000&label=HI-SCORE+VIEWS)
+![Followers](https://img.shields.io/github/followers/abdulmannan010spn-bot?style=for-the-badge&color=00FF41&labelColor=000000&label=PLAYERS+FOLLOWING)
+![Stars](https://img.shields.io/github/stars/abdulmannan010spn-bot?style=for-the-badge&color=FFB000&labelColor=000000&label=STARS+COLLECTED)
 
 </div>
 
 ---
 
-## 🧬 About Me
+```
+╔══════════════════════════════════════════════════════════╗
+║   ★ ★ ★   P L A Y E R   1   R E A D Y   ★ ★ ★           ║
+║                                                          ║
+║            PRESS  [START]  TO  SCROLL  DOWN              ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 👾 PLAYER PROFILE
 
-- 🎓 B.Tech student in **Information Technology** at Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad — Class of 2028
-- 💜 Frontend Developer & UI/UX Designer at the **Open Source Software Society (OSS)**
-- 🖥️ Focused on building **responsive, accessible, and interactive** web applications with modern engineering practices
-- 🎨 Strong product-design instincts — I bridge the gap between engineering and user experience
-- 🌱 Actively expanding into **full-stack development** and scalable frontend architecture
-- ⚡ Comfortable owning a feature end-to-end: design → build → ship → iterate
+```
+┌─────────────────────────────────────────────────────────┐
+│  NAME      : ABDUL MANNAN                               │
+│  CLASS     : FRONTEND DEVELOPER / UI-UX DESIGNER        │
+│  GUILD     : OPEN SOURCE SOFTWARE SOCIETY (OSS)         │
+│  ACADEMY   : AJAY KUMAR GARG ENGINEERING COLLEGE        │
+│  MAJOR     : B.TECH - INFORMATION TECHNOLOGY (2028)     │
+│  HOME BASE : SHAHJAHANPUR, UTTAR PRADESH, INDIA         │
+│  STATUS    : ● ONLINE  -  OPEN TO QUESTS                │
+└─────────────────────────────────────────────────────────┘
+```
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-**Tools, Design & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=java,js,html,css,react,redux,tailwind,bootstrap,figma,git,github,vscode,npm,vite&theme=dark)
-
-</div>
+> 🖥️ Building **responsive, accessible, and interactive** web apps with modern engineering practices
+> 🎨 Strong product-design instincts — bridging the gap between engineering and user experience
+> 🌱 Leveling up into **full-stack development** and scalable frontend architecture
+> ⚡ Owns features end-to-end: **design → build → ship → iterate**
 
 ---
 
-## 🎨 Design & Frontend Expertise
+## 🕹️ INVENTORY (TECH STACK)
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| UI/UX Design | ⭐⭐⭐⭐☆ | Wireframing, prototyping, and design systems in Figma |
-| Responsive Web Development | ⭐⭐⭐⭐⭐ | Mobile-first, cross-browser layouts with Tailwind CSS |
-| Motion & Micro-interactions | ⭐⭐⭐⭐☆ | Scroll animations & transitions using GSAP and Framer Motion |
-| Component Architecture | ⭐⭐⭐⭐☆ | Reusable, modular React component design |
-| API Integration | ⭐⭐⭐☆☆ | Consuming REST APIs with Axios for dynamic UIs |
-| Brand & Visual Design | ⭐⭐⭐⭐☆ | Posters, social creatives, and promotional assets |
+**⚔️ Languages**
 
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 
+**🛡️ Frontend**
 
-## 💼 Experience
+![React](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF)
 
-### Frontend Developer & Designer
-**Open Source Software Society (OSS), AKGEC** · *May 2024 – Present*
+**🧪 Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Axios](https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=5A29E4)
+
+**🔧 Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+
+---
+
+## 📟 SKILL STATS
+
+```
+UI/UX DESIGN ............ [████████░░] 80%   LVL 4
+RESPONSIVE WEB DEV ...... [██████████] 100%  LVL 5  ★ MAX
+MOTION & MICRO-INTERACT . [████████░░] 80%   LVL 4
+COMPONENT ARCHITECTURE .. [████████░░] 80%   LVL 4
+BRAND & VISUAL DESIGN ... [████████░░] 80%   LVL 4
+API INTEGRATION ......... [██████░░░░] 60%   LVL 3
+```
+
+| 🎮 Skill | 📝 Move Set |
+|---|---|
+| **UI/UX Design** | Wireframing, prototyping, and design systems in Figma |
+| **Responsive Web Dev** | Mobile-first, cross-browser layouts with Tailwind CSS |
+| **Motion & Micro-interactions** | Scroll animations & transitions using GSAP and Framer Motion |
+| **Component Architecture** | Reusable, modular React component design |
+| **API Integration** | Consuming REST APIs with Axios for dynamic UIs |
+| **Brand & Visual Design** | Posters, social creatives, and promotional assets |
+
+---
+
+## 📜 QUEST LOG (EXPERIENCE)
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  QUEST: FRONTEND DEVELOPER & DESIGNER                    ║
+║  GUILD: OPEN SOURCE SOFTWARE SOCIETY (OSS), AKGEC        ║
+║  TIME : MAY 2024 ──────────────────────────► PRESENT     ║
+║  STATUS: ▶ IN PROGRESS                                   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 Driving the design and frontend development of digital experiences for a student-led open source community, spanning technical events, workshops, and recruitment campaigns.
 
-- Designed modern UI/UX for technical events, workshops, and recruitment campaigns
-- Developed responsive web interfaces using React and Tailwind CSS
-- Created engaging posters, social media graphics, and promotional assets using Figma and Canva
-- Collaborated cross-functionally with team members to enhance website design and user experience
-- Implemented animations and interactive components using GSAP and Framer Motion
+- 🎨 Designed modern UI/UX for technical events, workshops, and recruitment campaigns
+- ⚛️ Developed responsive web interfaces using React and Tailwind CSS
+- 🖼️ Created posters, social media graphics, and promotional assets using Figma and Canva
+- 🤝 Collaborated cross-functionally to enhance website design and user experience
+- ✨ Implemented animations and interactive components using GSAP and Framer Motion
 
 `React` `Tailwind CSS` `GSAP` `Framer Motion` `Figma` `Canva` `UI/UX`
 
 ---
 
-## 🏆 Achievements
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+```
+🌟 [UNLOCKED]  COMMUNITY IMPACT
+               Contributed to the success of multiple OSS events and workshops
+
+🎨 [UNLOCKED]  DESIGN EXCELLENCE
+               Recognized for creative poster designs and UI/UX contributions
+
+📈 [UNLOCKED]  CONTINUOUS GROWTH
+               Consistently improving skills and building real-world projects
+```
+
+---
+
+## 🎯 HIGH SCORES (CODING PROFILES)
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🌟 Community Impact | Actively contributed to the success of multiple OSS events and workshops |
-| 🎨 Design Excellence | Recognized for creative poster designs and UI/UX contributions |
-| 📈 Continuous Growth | Consistently improving skills and building real-world projects |
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PLAY-000000?style=for-the-badge&labelColor=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/abdulmannan010spn-bot)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-PLAY-000000?style=for-the-badge&labelColor=2F8D46&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/abdulmannan010spn-bot)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-PLAY-000000?style=for-the-badge&labelColor=2EC866&logo=hackerrank&logoColor=black)](https://hackerrank.com/abdulmannan010spn-bot)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-PLAY-000000?style=for-the-badge&labelColor=C9A27E&logo=codechef&logoColor=black)](https://codechef.com/users/abdulmannan010spn-bot)
 
 </div>
 
 ---
 
-## 📊 Coding Profiles
+## 📈 GAME STATS (GITHUB ANALYTICS)
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abdulmannan010spn-bot)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/abdulmannan010spn-bot)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/abdulmannan010spn-bot)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/abdulmannan010spn-bot)
+<img height="165" src="https://streak-stats.demolab.com/?user=abdulmannan010spn-bot&background=000000&stroke=00FF41&ring=FFB000&fire=FF3EA5&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=FFB000&sideLabels=FFB000&dates=00E5FF&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
- 
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=abdulmannan010spn-bot&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-</div>
-
-
-## 🎯 Current Focus
+## 🗺️ CURRENT MISSION
 
 ```yaml
-Learning:
+LEARNING:
   - Advanced React patterns & performance optimization
   - Backend fundamentals with Node.js
   - Design systems at scale
 
-Building:
+BUILDING:
   - Personal portfolio v2 with case studies
   - Component library for OSS projects
 
-Exploring:
+EXPLORING:
   - Motion design with GSAP & Framer Motion
   - Full-stack architecture
 
-Open To:
+OPEN TO:
   - Frontend Engineering Internships
   - Open Source Collaboration
   - Freelance Web Development Projects
@@ -177,37 +200,31 @@ Open To:
 
 ---
 
-## 📫 Connect With Me
+## 🪙 INSERT COIN TO CONNECT
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmannan010spn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mannan-537494375)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulmannan010spn-bot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-</div>
+[![Gmail](https://img.shields.io/badge/▶_GMAIL-CONTACT_ME-000000?style=for-the-badge&labelColor=FF3EA5&logo=gmail&logoColor=black)](mailto:abdulmannan010spn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-CONNECT-000000?style=for-the-badge&labelColor=00E5FF&logo=linkedin&logoColor=black)](https://linkedin.com/in/abdul-mannan-537494375)
+[![GitHub](https://img.shields.io/badge/▶_GITHUB-FOLLOW-000000?style=for-the-badge&labelColor=00FF41&logo=github&logoColor=black)](https://github.com/abdulmannan010spn-bot)
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-VISIT-000000?style=for-the-badge&labelColor=FFB000&logo=vercel&logoColor=black)](https://yourportfolio.com)
 
 <br/>
 
-<div align="center">
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Your mind is like this water,                         ║
+║    When it is agitated, it becomes difficult to see.     ║
+║    But, if you allow it to settle,                       ║
+║    the answer becomes clear."                            ║
+║                                                          ║
+║                              ~ MASTER OOGWAY             ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<table>
-<tr>
-<td align="center" width="600">
-<br/>
-<i>"Your mind is like this water,<br/>
-When it is agitated, it becomes difficult to see.<br/>
-But, if you allow it to settle, the answer becomes clear."</i>
-<br/><br/>
-<b>~ Master Oogway</b>
-<br/>
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1500&pause=500&color=FFB000&center=true&vCenter=true&width=600&height=40&lines=INSERT+COIN+TO+CONTINUE...;THANKS+FOR+VISITING!;GAME+OVER+...+JUST+KIDDING" alt="Footer typing" />
 
-<br/>
-
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=150&section=footer)
+![Footer Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0a1f0a,100:000000&height=100&section=footer&animation=twinkling)
 
 </div>
